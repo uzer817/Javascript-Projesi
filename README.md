@@ -9,5 +9,7 @@ Projede JS kullanılarak body arka plan rengi, div arka plan rengi, div border r
 
 <h3> Görünüm </h3>
 
-![](Degıstır.gif)
+![](Arka Planı Degıstır.gif)
+![](Arka Planı Degıstır.gif)
+
 
